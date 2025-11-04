@@ -1,0 +1,2 @@
+# Ignorar qualquer diretório "target" em qualquer nível
+**/target/
